@@ -1,29 +1,51 @@
-# TDesigner: 3D T-Shirt Design Platform
+# T-Designer: Unleash Your Creativity in 3D 👕🎨
 
-TDesigner is a cutting-edge 3D Software as a Service (SaaS) platform that empowers users to design their t-shirts with the fusion of metaverse vision and artificial intelligence.
+![Header Image](/client/src/assets/header.png)
 
-<!-- 
+---
 
-![TDesigner Preview](preview-image-link) 
+## Table of Contents 📚
 
-// Replace with an actual preview image link -->
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [How to Get Started](#how-to-get-started)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## Features
+---
 
-- **3D Modeling**: Utilize Three.js and React Three Fiber to create and manipulate 3D models.
-- **AI-Generated Textures**: Leverage AI to generate stunning textures for your designs.
-- **Interactive Design Interface**: Apply colors, textures, and more with an intuitive interface.
-- **Downloadable Designs**: Export your unique creations as images.
+## Introduction 🌟
 
-## Technologies Used
+Welcome to **T-Designer**, the next-level t-shirt customization platform that brings your designs to life in stunning 3D! Inspired by the cutting-edge technologies used by large corporations, this app offers an unparalleled user experience. Whether you're a design novice or a seasoned pro, T-Designer provides you with the tools to create, visualize, and download your dream t-shirt.
 
-- **React**: Building user interfaces.
-- **Vite**: Development and build tool.
-- **Three.js**: 3D graphics.
-- **Framer Motion**: Animations.
-- **Tailwind CSS**: Styling.
-- **Valtio**: State management.
-- **ESLint**: Code quality control.
+---
+
+## Features 🛠️
+
+- **3D Visualization**: Real-time rendering of your t-shirt design in 3D.
+- **Customization**: Add colors, logos, and decals to make your design truly unique.
+- **AI-Infused**: Generate and use images through DALLE AI for an extra layer of creativity.
+- **Downloadable**: Save your final design as a high-quality image.
+- **Responsive**: Optimized for all devices, ensuring a seamless design experience.
+- **High Performance**: Efficient codebase for a smooth user experience.
+
+---
+
+## Technologies Used 💻
+
+- **ThreeJS**: For 3D graphics rendering.
+- **React Three Fiber**: To integrate ThreeJS within React.
+- **React**: For building the user interface.
+- **TailwindCSS**: For utility-first CSS styling.
+- **Framer Motion**: To add that extra flair with animations.
+- **Valtio**: For state management.
+
+---
+
+## Contributing 🤝
+Feel free to fork the project, create a feature branch, and send us a pull request. For bugs, questions, and discussions please use the Github Issues.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
@@ -32,6 +54,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 [Mohiman.com] - [LinkedIn.com/mohimanb]
 
 Project Link: [https://github.com/mohimanb/tdesigner](https://github.com/mohimanb/tdesigner)
+Deployment Link:[https://tdesigner.vercel.app/](https://tdesigner.vercel.app/)
 
 ---
 
