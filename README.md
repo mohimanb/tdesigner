@@ -68,8 +68,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Contact
 [Mohiman.com] - [LinkedIn.com/mohimanb]
 
-Project Link: [https://github.com/mohimanb/tdesigner](https://github.com/mohimanb/tdesigner)
-Deployment Link:[https://tdesigner.vercel.app/](https://tdesigner.vercel.app/)
+- Project Link: [https://github.com/mohimanb/tdesigner](https://github.com/mohimanb/tdesigner)
+- Deployment Link:[https://tdesigner.vercel.app/](https://tdesigner.vercel.app/)
 
 ---
 
