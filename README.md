@@ -48,16 +48,16 @@ Welcome to **T-Designer**, the next-level t-shirt customization platform that br
 
 ## Installation 💾
 
-Clone the repository: `git clone https://github.com/mohimanb/tdesigner.git`
-Navigate to the project directory: `cd tdesigner`
-Install dependencies: `npm install`
-Start the development server: `npm start`
+- Clone the repository: `git clone https://github.com/mohimanb/tdesigner.git`
+- Navigate to the project directory: `cd tdesigner`
+- Install dependencies: `npm install`
+- Start the development server: `npm start`
 
 ## Usage 📖
 
-Open your browser and navigate to `http://localhost:3000/`
-Use the design tools to create your custom t-shirt.
-Save your design by clicking the 'Download' button.
+- Open your browser and navigate to `http://localhost:3000/`
+- Use the design tools to create your custom t-shirt.
+- Save your design by clicking the 'Download' button.
 
 ## Contributing 🤝
 Feel free to fork the project, create a feature branch, and send us a pull request. For bugs, questions, and discussions please use the Github Issues.
