@@ -1,4 +1,4 @@
-# T-Designer: Unleash Your Creativity in 3D 👕🎨
+# T-Designer: Unleash Your Creativity in 3D 👕🍉
 
 ![Header Image](/client/src/assets/header.png)
 
@@ -73,4 +73,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-Made with ❤️ by Mohiman.com
+Made with ❤️&🍉 by Mohiman.com
