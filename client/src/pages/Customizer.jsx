@@ -18,7 +18,7 @@ const Customizer = () => {
     const [file, setFile] = useState('');
 
     const [prompt, setPrompt] = useState('');
-    const [generateImg, setGeneratingImg] = useState('');
+    const [generateImg, setGeneratingImg] = useState(false);
 
     const [activeEditorTab, setActiveEditorTab] = useState('');
     const [activeFilterTab, setActiveFilterTab] = useState({
@@ -58,7 +58,7 @@ const Customizer = () => {
 
     const handleActiveFilterTab = (tabName) => {
         switch (tabName) {
-            case (tabName):
+            case "logoShirt":
                 state.isLogoTexture = !activeFilterTab[tabName];
               break;
             case "stylishShirt":
@@ -97,6 +97,7 @@ const Customizer = () => {
                                     handleClick={() => setActiveEditorTab(tab.name)}
                                 />
                             ))}
+
                             {generateTabContent()}
                         </div>
                     </div>
