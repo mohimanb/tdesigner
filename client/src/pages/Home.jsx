@@ -19,23 +19,24 @@ const Home = () => {
         <motion.section className="home" {...slideAnimation('left')}>
           <motion.header {...slideAnimation("down")}>
             <img 
-              src='./threejs.png'
+              src='./tdesigner.png'
               alt="logo"
-              className="w-8 h-8 object-contain"
+              className="w-14 h-14 object-contain"
             />
           </motion.header>
 
           <motion.div className="home-content" {...headContainerAnimation}>
             <motion.div {...headTextAnimation}>
               <h1 className="head-text">
-                LET'S <br className ="xl:block hidden"/> DO IT.
+                LET'S <br className ="xl:block hidden"/> DESIGN IT.
               </h1>
               </motion.div>
 
               <motion.div {...headContentAnimation} className="flex flex-col gap-5">
                 <p className="max-w-md font-normal text-gray-600 text-base">
-                  Create your unique and exclusive shirt with our brand-new 3D customization tool. <strong>Unlease your imagination</strong>{" "} and define your style.
+                    Elevate your fashion game with T-Designer's state-of-the-art 3D customization platform. <strong>Unleash your creative potential</strong> by crafting one-of-a-kind t-shirt designs that resonate with your unique style. From intricate logos to vibrant color palettes, our user-friendly interface empowers you to visualize and bring your sartorial visions to life. Experience the future of personalized fashion, today.
                 </p>
+
 
                 <CustomButton
                   type="filled"
