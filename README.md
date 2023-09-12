@@ -55,7 +55,7 @@ Welcome to **T-Designer**, the next-level t-shirt customization platform that br
 
 ## Usage 📖
 
-- Open your browser and navigate to `http://localhost:3000/`
+- Open your browser and navigate to `http://localhost:8080/`
 - Use the design tools to create your custom t-shirt.
 - Save your design by clicking the 'Download' button.
 
